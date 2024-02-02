@@ -1,0 +1,6 @@
+﻿  server.cpp
+C:\Users\Lenovo\OneDrive\Desktop\server\server\server.cpp(51,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Lenovo\OneDrive\Desktop\server\server\server.cpp(80,3): warning C4551: function call missing argument list
+C:\Users\Lenovo\OneDrive\Desktop\server\server\server.cpp(87,3): warning C4551: function call missing argument list
+C:\Users\Lenovo\OneDrive\Desktop\server\server\server.cpp(93,3): warning C4551: function call missing argument list
+  server.vcxproj -> C:\Users\Lenovo\OneDrive\Desktop\server\x64\Debug\server.exe
